@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:01-linear-program/01-linear-program.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:02-conditionals-loops-1/02-conditionals-loops-1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:03-conditionals-loops-2/03-conditionals-loops-2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:04-functions/04-functions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:05-arrays-1d/05-arrays-1d.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:06-arrays-2d/06-arrays-2d.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:07-strings/07-strings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:08-structures/08-structures.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:09-multi-file-project/09-multi-file-project.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:10-templates/10-templates.xcodeproj">
+   </FileRef>
+</Workspace>
